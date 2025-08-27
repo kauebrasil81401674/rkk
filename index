@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>RK Suplementos | Loja Oficial</title>
+  <meta name="description" content="RK Suplementos - Whey, Creatina, Pré-Treinos e muito mais. Produtos originais com os melhores preços e parcelamento sem juros." />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="RK Suplementos | Loja Oficial" />
+  <meta property="og:description" content="Suplementos originais com os melhores preços. Whey, creatina e muito mais." />
+  <meta property="og:image" content="https://dev-rksuplementos.pantheonsite.io/wp-content/uploads/2025/08/logosit-1-1.png" />
+  <meta property="og:type" content="website" />
+
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700;800&display=swap" as="style">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="logo">
+        <img src="https://dev-rksuplementos.pantheonsite.io/wp-content/uploads/2025/08/logosit-1-1.png" 
+             alt="Logo da RK Suplementos - Lobo em vermelho e laranja" loading="lazy">
+      </div>
+      <h1 class="site-title">RK SUPLEMENTOS</h1>
+      <nav class="cta-nav">
+        <a class="btn btn-instagram" aria-label="Visite nosso Instagram" 
+           href="https://www.instagram.com/rksuplementosss/" target="_blank" rel="noopener">
+          <i class="fa-brands fa-instagram"></i> Instagram
+        </a>
+        <a class="btn btn-whatsapp" aria-label="Fale conosco pelo WhatsApp" 
+           href="https://wa.me/5582999445973?text=Oi%21%20👋%20Vi%20seu%20site%20e%20fiquei%20curioso%20sobre%20os%20suplementos.%20Tem%20como%20me%20passar%20mais%20detalhes%3F" target="_blank" rel="noopener">
+          <i class="fa-brands fa-whatsapp"></i> WhatsApp
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== MAIN / CATÁLOGO ===== -->
+  <main class="catalog">
+
+    <article class="product-card">
+      <img src="https://dev-rksuplementos.pantheonsite.io/wp-content/uploads/2025/08/whey-1-1.png" 
+           alt="Whey Protein 100% Puro Max Titanium 900g embalagem preta" loading="lazy">
+      <h2 class="product-title">WHEY 100% PURO MAX TITANIUM 900G</h2>
+      <div class="price-banner">
+        <p class="price">R$ 135,00</p>
+        <p class="installments">ATÉ 3X DE R$ 45,00 SEM JUROS</p>
+      </div>
+      <a class="btn-buy" aria-label="Comprar Whey Protein pelo WhatsApp" 
+         href="https://wa.me/5582999445973?text=Olá! 👋 Tenho interesse em comprar o Whey Protein. Pode me informar todos os sabores disponíveis?" 
+         target="_blank" rel="noopener">
+        <i class="fa-brands fa-whatsapp"></i> Comprar
+      </a>
+    </article>
+
+    <article class="product-card">
+      <img src="https://dev-rksuplementos.pantheonsite.io/wp-content/uploads/2025/08/2193c5b2-7fcc-4d91-a47b-1d4eead7d546-1-1.png" 
+           alt="Creatina Max Titanium 300g pote branco" loading="lazy">
+      <h2 class="product-title">CREATINA 100% PURA MAX TITANIUM 300G</h2>
+      <div class="price-banner">
+        <p class="price">R$ 75,00</p>
+        <p class="installments">ATÉ 3X DE R$ 25,00 SEM JUROS</p>
+      </div>
+      <a class="btn-buy" aria-label="Comprar Creatina Max Titanium pelo WhatsApp" 
+         href="https://wa.me/5582999445973?text=Olá! 👋 Tenho interesse em comprar a Creatina Max Titanium 300g. Pode me passar mais informações?" 
+         target="_blank" rel="noopener">
+        <i class="fa-brands fa-whatsapp"></i> Comprar
+      </a>
+    </article>
+
+    <article class="product-card">
+      <img src="https://dev-rksuplementos.pantheonsite.io/wp-content/uploads/2025/08/probiotica-1-1.jpg" 
+           alt="Creatina Probiótica 300g pote preto" loading="lazy">
+      <h2 class="product-title">CREATINA 100% PURA PROBIOTICA 300G</h2>
+      <div class="price-banner">
+        <p class="price">R$ 75,00</p>
+        <p class="installments">ATÉ 3X  DE R$ 25,00 SEM JUROS</p>
+      </div>
+      <a class="btn-buy" aria-label="Comprar Creatina Probiótica pelo WhatsApp" 
+         href="https://wa.me/5582999445973?text=Olá! 👋 Tenho interesse em comprar a Creatina Probiótica 300g. Pode me passar mais informações?" 
+         target="_blank" rel="noopener">
+        <i class="fa-brands fa-whatsapp"></i> Comprar
+      </a>
+    </article>
+
+    <article class="product-card">
+      <img src="https://dev-rksuplementos.pantheonsite.io/wp-content/uploads/2025/08/V9-1-1.png" 
+           alt="Pré-treino V9 Pump Shark Pro 300g pote azul" loading="lazy">
+      <h2 class="product-title">PRE TREINO V9 PUMP SHARK PRO 300G</h2>
+      <div class="price-banner">
+        <p class="price">R$ 105,00</p>
+        <p class="installments">ATÉ 3X DE R$ 35,00 SEM JUROS</p>
+      </div>
+      <a class="btn-buy" aria-label="Comprar Pré-Treino V9 pelo WhatsApp" 
+         href="https://wa.me/5582999445973?text=Olá! 👋 Tenho interesse em comprar o Pré-Treino V9 Pump Shark Pro 300g. Pode me passar mais informações?" 
+         target="_blank" rel="noopener">
+        <i class="fa-brands fa-whatsapp"></i> Comprar
+      </a>
+    </article>
+
+    <article class="product-card">
+      <img src="https://dev-rksuplementos.pantheonsite.io/wp-content/uploads/2025/08/TOMAHAWK-1-1.jpg" 
+           alt="Pré-treino Tomahawk sem cafeína 380g pote laranja" loading="lazy">
+      <h2 class="product-title">PRE TREINO TOMAHAWK (SEM CAFEINA) 380G</h2>
+      <div class="price-banner">
+        <p class="price">R$ 105,00</p>
+        <p class="installments">ATÉ 3X DE R$ 35,00 SEM JUROS</p>
+      </div>
+      <a class="btn-buy" aria-label="Comprar Pré-Treino Tomahawk pelo WhatsApp" 
+         href="https://wa.me/5582999445973?text=Olá! 👋 Tenho interesse em comprar o Pré-Treino Tomahawk Full Life 380g. Pode me passar mais informações?" 
+         target="_blank" rel="noopener">
+        <i class="fa-brands fa-whatsapp"></i> Comprar
+      </a>
+    </article>
+
+    <article class="product-card">
+      <img src="https://dev-rksuplementos.pantheonsite.io/wp-content/uploads/2025/08/pasta-amendoin-1-1.jpg" 
+           alt="Pasta de amendoim Dr Peanut 600g pote bege" loading="lazy">
+      <h2 class="product-title">PASTA DE AMENDOIN DR PENAUT 600G</h2>
+      <div class="price-banner">
+        <p class="price">R$ 60,00</p>
+        <p class="installments">ATÉ 3X DE R$ 20,00 SEM JUROS</p>
+      </div>
+      <a class="btn-buy" aria-label="Comprar Pasta de Amendoim pelo WhatsApp" 
+         href="https://wa.me/5582999445973?text=Olá! 👋 Tenho interesse em comprar a Pasta de Amendoim Dr. Peanut 600g. Quais sabores estão disponíveis?" 
+         target="_blank" rel="noopener">
+        <i class="fa-brands fa-whatsapp"></i> Comprar
+      </a>
+    </article>
+
+  </main>
+
+</body>
+</html>
